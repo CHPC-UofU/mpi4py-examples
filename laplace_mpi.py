@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # laplace_mpi.py - MPI implementation of Laplace problem from XSEDE summer bootcamp.
 # Author: Brett Milash, brett.milash@utah.edu.
+# This is a python / mpi4py solution to the Laplace exercise from the 
+# XSEDE summer bootcamp: https://www.psc.edu/wp-content/uploads/2021/06/MPI-Laplace-Exercise-Intro.pdf
 
 import numpy as np
 import math
